@@ -3,18 +3,18 @@ import os
 
 # Lista de URLs de los videos
 videos = [
-    "http://tu_dominio.com/videos/Best_Fitness_BFCCO10_Cable_Crossover.mp4",
-    "http://tu_dominio.com/videos/Como_hacer_SENTADILLA_HACK.mp4",
-    "http://tu_dominio.com/videos/Como_realizar_el_ejercicio_de_Press_de_pierna.mp4",
-    "http://tu_dominio.com/videos/GEMELO_EN_MAQUINA_DE_PIE.mp4",
-    "http://tu_dominio.com/videos/Gluteos_Articulado_Elevacion_Pelvica.mp4",
-    "http://tu_dominio.com/videos/GN_Sentadilla_maquina_smith.mp4",
-    "http://tu_dominio.com/videos/Hammer_Strength_Select_Pectoral_Fly.mp4",
-    "http://tu_dominio.com/videos/Pantorrilla_Sentado.mp4",
-    "http://tu_dominio.com/videos/Press_de_banca_plano.mp4",
-    "http://tu_dominio.com/videos/Remo_sentado_en_polea.mp4",
-    "http://tu_dominio.com/videos/saveinsta_extensiones_de_cuadriceps.mp4",
-    "http://tu_dominio.com/videos/saveinsta_patada_de_gluteo_en_maquina.mp4"
+    "https://drive.google.com/file/d/1tQuZmJLTQeNVxJMitMnU3_XkPgSXZMgC/view?usp=sharing",
+    "https://drive.google.com/file/d/1tf6jWnDsujS_qyaPmmtDsHyKv0w7QEXL/view?usp=sharing",
+    "https://drive.google.com/file/d/1YVTkGdTf5vUqFoQKiExpm9O56p1ufzRf/view?usp=sharing",
+    "https://drive.google.com/file/d/1n7j6LYRYWViokcOM3dxRs7g5JZ6mPL6U/view?usp=sharing",
+    "https://drive.google.com/file/d/1n7j6LYRYWViokcOM3dxRs7g5JZ6mPL6U/view?usp=sharing",
+    "https://drive.google.com/file/d/1rOeaB9HolEG8_9UxEmRNsrVGI4MhzcCt/view?usp=sharing",
+    "https://drive.google.com/file/d/1rOeaB9HolEG8_9UxEmRNsrVGI4MhzcCt/view?usp=sharing",
+    "https://drive.google.com/file/d/1SV9AbQNbWK2uZmYjK8NK6Sda0uL2ekBe/view?usp=sharing",
+    "https://drive.google.com/file/d/1-PO2apkqda1LoWJ65QGL7m68ZlUQFqKb/view?usp=sharing",
+    "https://drive.google.com/file/d/1TXAZ7fvt0N_ga1wvFCvo4XzEe9Vjkbpo/view?usp=sharing",
+    "https://drive.google.com/file/d/1HdEah7OmF0LkX5b2o-2lz-v2rb5QWUt8/view?usp=sharing",
+    "https://drive.google.com/file/d/1HdEah7OmF0LkX5b2o-2lz-v2rb5QWUt8/view?usp=sharing"
 ]
 
 # Crear una carpeta para guardar los códigos QR
